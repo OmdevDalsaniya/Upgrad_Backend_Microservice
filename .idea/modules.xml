@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookingService/BookingService.iml" filepath="$PROJECT_DIR$/BookingService/BookingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentSerice/PaymentSerice.iml" filepath="$PROJECT_DIR$/PaymentSerice/PaymentSerice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sweet-Home.iml" filepath="$PROJECT_DIR$/.idea/Sweet-Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiGateway/apiGateway.iml" filepath="$PROJECT_DIR$/apiGateway/apiGateway.iml" />
+    </modules>
+  </component>
+</project>
